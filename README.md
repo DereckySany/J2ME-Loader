@@ -24,7 +24,7 @@ Requisitos do sistema: Android 4.0+
 [Lista dos jogos Java testados (Non Touchscreen)](https://github.com/nikita36078/J2ME-Loader/wiki/List-of-Tested-Java-Games-(Non-Touchscreen))  
 [Lista dos Jogos Java com Bugs](https://github.com/nikita36078/J2ME-Loader/wiki/List-of-Java-Games-with-Bugs)
 
-## Contras
+## Por Menores
  - Ativar a filtragem em alguns casos pode reduzir bastante o desempenho. Desative esta opção se o jogo estiver muito lento.
  - Os problemas de cintilação da imagem podem ser corrigidos ativando a opção "Modo de processamento imediato".
 
@@ -44,4 +44,4 @@ Se você gosta do projeto, considere fazer uma doação para apoiar o desenvolvi
 ## Licença
 > Direitos autorais 2017-2022 Nikita Shakarun.
 > Licenciado sob o [Apache License, Version 2.0.](http://www.apache.org/licenses/LICENSE-2.0)  
-> (Veja a [LICENSE](https://github.com/nikita36078/J2ME-Loader/blob/master/LICENSE) arquivo para todo o texto da licença.)
+> (Veja a [LICENÇA](https://github.com/nikita36078/J2ME-Loader/blob/master/LICENSE) arquivo para todo o texto da licença.)
